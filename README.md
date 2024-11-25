@@ -7,3 +7,4 @@
 {lab 07}   (https://github.com/ANUKYA123/2303a52452/blob/main/Lab07_AIML.ipynb)
 {lab 08}   (https://github.com/ANUKYA123/2303a52452/blob/main/Lab08_AIML.ipynb)
 {lab 09}   (https://github.com/ANUKYA123/2303a52452/blob/main/Lab09-AIML.ipynb)
+{lab 10}   (https://github.com/ANUKYA123/2303a52452/blob/main/Lab10-AIML.ipynb)
